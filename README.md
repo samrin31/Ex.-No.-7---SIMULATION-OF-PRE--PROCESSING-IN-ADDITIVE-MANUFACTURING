@@ -44,9 +44,16 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1130" height="660" alt="Screenshot 2026-03-16 144217" src="https://github.com/user-attachments/assets/be9a2f9e-6d68-4320-8cee-69adade7749f" />
+<img width="1076" height="687" alt="Screenshot 2026-03-16 144224" src="https://github.com/user-attachments/assets/47094de5-0453-4baa-9d93-64d316d11661" />
+<img width="1086" height="595" alt="Screenshot 2026-03-16 144230" src="https://github.com/user-attachments/assets/e031939d-1fb3-4800-b7f0-84b9895d9cb4" />
+<img width="1049" height="704" alt="Screenshot 2026-03-16 144237" src="https://github.com/user-attachments/assets/4114ef16-8af1-4e51-a045-f2bee226d889" />
+<img width="1116" height="674" alt="Screenshot 2026-03-16 144246" src="https://github.com/user-attachments/assets/837bba12-a9d5-4884-bd05-c8e595a7baf6" />
+<img width="1069" height="630" alt="Screenshot 2026-03-16 144312" src="https://github.com/user-attachments/assets/459adb3b-f09c-423b-815c-97cce26f5993" />
+<img width="1081" height="666" alt="Screenshot 2026-03-16 144322" src="https://github.com/user-attachments/assets/85b85240-c321-4a5b-8a37-baffd54cbd49" />
 
-### Name:
-### Register Number:
+### Name:samrin T
+### Register Number:212225100042
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
